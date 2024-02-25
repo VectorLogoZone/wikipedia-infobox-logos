@@ -1,15 +1,23 @@
 #!/usr/bin/env python3
 
 import bz2
+import re
+import sys
 import urllib.parse
 import urllib.request
 import xml.sax
 from xml.sax.handler import ContentHandler
 
-# See https://github.com/5j9/wikitextparser
-import wikitextparser as wtp
+# https://github.com/earwig/mwparserfromhell
+import mwparserfromhell as mwp
 
+lang = 'en'
+logoBase = 'https://en.wikipedia.org/wiki/Special:Redirect/file'
 url = 'http://localhost/enwiki-latest-pages-articles-multistream.xml.bz2'
+
+articleCount = 0;
+infoCount = 0;
+svgLogoCount = 0;
 
 class TextHandler(ContentHandler):
   def __init__(self, process):
@@ -40,20 +48,31 @@ class TextHandler(ContentHandler):
 
 class MarkupHandler():
   def process(self, base, title, text):
-    parsed = wtp.parse(text)
-    for template in parsed.templates:
-      if not template.name.startswith('Infobox'):
+    global articleCount, infoCount, svgLogoCount
+    if articleCount % 1000 == 0:
+      print(articleCount, infoCount, svgLogoCount, file=sys.stderr)
+    articleCount = articleCount + 1;
+    parsed = mwp.parse(text)
+    hasInfobox = False
+    for template in parsed.ifilter_templates():
+      name = str(template.name).strip()
+      if name[0:7].lower() != 'infobox':
         continue
-      for argument in template.arguments:
-        if argument.name != 'logo':
+      hasInfobox = True
+      for argument in template.params:
+        arg = str(argument.name).strip().lower()
+        if arg != 'logo':
           continue
-        value = str(argument.value).strip()
-        if not value:
+        infoCount = infoCount + 1;
+        logoUrl = logoValueToUrl(argument.value, parsed)
+        if not logoUrl:
           continue
+        svgLogoCount = svgLogoCount + 1
+        pageUrl = urllib.parse.urljoin(base, urlencode(title))
         print('###################################################################')
-        print(titleToUrl(base, title))
-        print(str(template.name).strip())
-        print(value)
+        print(pageUrl)
+        print(name)
+        print(logoUrl)
         print('-------------------------------------------------------------------')
 
 def decompress(byteStream, feed):
@@ -73,22 +92,40 @@ def decompress(byteStream, feed):
         break
 
 # See https://www.mediawiki.org/wiki/Manual:Page_title#Encoding
-allowed = frozenset(b'\'(),-.0123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz')
-def titleToUrl(base, title):
+allowed = frozenset(b'\'(),-.0123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz')
+def urlencode(value):
   chars = [];
-  for b in title.encode():
+  for b in value.encode():
     if b in allowed:
       chars.append(chr(b))
     elif b == ord(' '):
       chars.append('_')
     else:
       chars.append("%%%0.2X" % b)
-  return urllib.parse.urljoin(base, ''.join(chars))
+  return ''.join(chars)
+
+refile = re.compile(r'^ *\[\[ *file *:')
+def logoValueToUrl(value, parsed):
+  value = str(value).strip() if value else None
+  if not value:
+    return None
+  if refile.match(value):
+    for wikilink in parsed.ifilter_wikilinks():
+      if value == str(wikilink):
+        value = wikilink.title[5:]
+        break
+  if not value.strip().endswith('.svg'):
+    return None
+  value = urlencode(value)
+  return f'{logoBase}/{value}'
 
 def main(url):
   markupParser = MarkupHandler()
   xmlParser = TextHandler(lambda base, title, text : markupParser.process(base, title, text))
   with urllib.request.urlopen(url) as byteStream:
     decompress(byteStream, lambda data : xmlParser.feed(data))
+  print('articleCount', articleCount)
+  print('infoCount', infoCount)
+  print('svgLogoCount', svgLogoCount)
 
 main(url)
