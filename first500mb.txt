@@ -29,6 +29,11 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/AOL_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/APL_(programming_language)
+Infobox programming language
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:APL_(programming_language)_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/AWK
 Infobox programming language
 https://en.wikipedia.org/wiki/Special:Redirect/file/The-AWK-Programming-Language.svg
@@ -177,6 +182,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Atari_Jaguar_logo.svg
 https://en.wikipedia.org/wiki/Atari_Lynx
 Infobox information appliance
 https://en.wikipedia.org/wiki/Special:Redirect/file/Atari_Lynx_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Arcadia_2001
+Infobox computing device
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:BANDAI.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Admiralty_(United_Kingdom)
@@ -579,6 +589,16 @@ Infobox NFL team
 https://en.wikipedia.org/wiki/Special:Redirect/file/Denver_Broncos_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Debian
+Infobox OS
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Debian-OpenLogo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Drexel_University
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Drexel_University_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Dartmouth_College
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/Dartmouth_College_logo.svg
@@ -649,6 +669,16 @@ Infobox building
 https://en.wikipedia.org/wiki/Special:Redirect/file/Esb-logo-oneline.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Eiffel_(programming_language)
+Infobox programming language
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Eiffel_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/European_Free_Alliance
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:European_Free_Alliance.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_for_Europe_Party
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/ALDE_Party_logo.svg
@@ -697,6 +727,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Fox_Film.svg
 https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_der_Freien_Demokraten.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Formula_One
+Infobox motorsport championship
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:F1.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Fencing
@@ -774,6 +809,11 @@ Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo_(transparent).svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/GNU_Compiler_Collection
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:GNU_Compiler_Collection_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Game_Boy_Advance
 Infobox information appliance
 https://en.wikipedia.org/wiki/Special:Redirect/file/Game_Boy_Advance_logo.svg
@@ -797,6 +837,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/The_GIMP_icon_-_gnome.svg
 https://en.wikipedia.org/wiki/Green_Bay_Packers
 Infobox NFL team
 https://en.wikipedia.org/wiki/Special:Redirect/file/Green_Bay_Packers_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/General_Electric
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:General_Electric_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Gzip
@@ -837,6 +882,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/File:Game_Boy_Color_logo.svg
 https://en.wikipedia.org/wiki/Grinnell_College
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/Grinnell_College_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/GNU_Hurd
+Infobox OS
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Hurd-logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Hudson's_Bay_Company
@@ -887,6 +937,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Hearst_logo.svg
 https://en.wikipedia.org/wiki/Intel
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Intel_logo_2023.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/HexChat
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Hexchat_Logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/IKEA
@@ -1084,6 +1139,11 @@ Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Emblem_of_the_Kuomintang.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/KAIST
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:KAIST_logo_small.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Kent_State_University
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/Kent_State_University_logo.svg
@@ -1119,6 +1179,11 @@ Infobox software
 https://en.wikipedia.org/wiki/Special:Redirect/file/Breezeicons-apps-48-kget.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Calligra
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Calligra-logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Calligra_Words
 Infobox software
 https://en.wikipedia.org/wiki/Special:Redirect/file/Breezeicons-apps-48-words.svg
@@ -1137,6 +1202,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/LaTeX_project_logo_bird.svg
 https://en.wikipedia.org/wiki/Los_Angeles_Dodgers
 Infobox MLB
 https://en.wikipedia.org/wiki/Special:Redirect/file/Los_Angeles_Dodgers_Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Lamborghini
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Lamborghini_Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Lamborghini
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Lamborghini_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Lotus_1-2-3
@@ -1212,6 +1287,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Microsoft_logo_and_wordmark.
 https://en.wikipedia.org/wiki/Miami_Dolphins
 Infobox NFL team
 https://en.wikipedia.org/wiki/Special:Redirect/file/Miami_Dolphins_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Mebyon_Kernow
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Mebyon_Kernow_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Mandriva_Linux
+Infobox OS
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Mandriva-Logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Mazda
@@ -1469,6 +1554,11 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Nordea.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/National_Rail
+Infobox brand
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:NationalRail.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/National_Party_of_Australia
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/The_National_Party_of_Australia_Logo.svg
@@ -1484,6 +1574,11 @@ Infobox information appliance
 https://en.wikipedia.org/wiki/Special:Redirect/file/Virtualboy_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Neo_Geo_(system)
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Neogeo-logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Neo_Geo_CD
 Infobox Information appliance <!-- please provide a SOURCE when adding any details here about when the console was discontinued -->
 https://en.wikipedia.org/wiki/Special:Redirect/file/File:Neo_Geo_CD_logo.svg
@@ -1497,6 +1592,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/VM_Labs_Nuon_logo.svg
 https://en.wikipedia.org/wiki/National_Basketball_Association
 Infobox sports league
 https://en.wikipedia.org/wiki/Special:Redirect/file/National_Basketball_Association_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/N%C3%BCrburgring
+Infobox motorsport venue
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Nurburgring.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Ohio_State_University
@@ -1639,6 +1739,21 @@ infobox programming language
 https://en.wikipedia.org/wiki/Special:Redirect/file/Perl_language_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/PlayStation_(console)
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Playstation_logo_colour.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/PlayStation_(console)
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:PlayStation_wordmark_(1994-2009).svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/PlayStation_(console)
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:PSone_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/PDP-1
 Infobox computing device
 https://en.wikipedia.org/wiki/Special:Redirect/file/PDP-1_wordmark_horizontal.svg
@@ -1704,9 +1819,24 @@ Infobox drink
 https://en.wikipedia.org/wiki/Special:Redirect/file/Pepsi_2023.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/CD-i
+Infobox storage medium
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:CDIlogo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Adobe_Photoshop
 Infobox software
 https://en.wikipedia.org/wiki/Special:Redirect/file/Adobe_Photoshop_CC_icon.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/PlayStation_3
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:PlayStation_3_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/PlayStation_3
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:PlayStation_3_Logo_neu.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Qt_(software)
@@ -1784,6 +1914,11 @@ Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/Stanford_wordmark_(2012).svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Sun_Microsystems
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Sun_Microsystems_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/CLI%C3%89
 Infobox information appliance
 https://en.wikipedia.org/wiki/Special:Redirect/file/Sony_Clie_logo.svg
@@ -1834,6 +1969,11 @@ Infobox NFL event
 https://en.wikipedia.org/wiki/Special:Redirect/file/Super_Bowl_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Silicon_Graphics
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:SGI_wordmark.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Scheme_(programming_language)
 Infobox programming language
 https://en.wikipedia.org/wiki/Special:Redirect/file/Lambda_lc.svg
@@ -1857,6 +1997,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_Car_Club_of_America_l
 https://en.wikipedia.org/wiki/Slackware
 Infobox OS
 https://en.wikipedia.org/wiki/Special:Redirect/file/Slackware_logo_from_the_official_Slackware_site.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Super_Nintendo_Entertainment_System_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Nintendo_Super_Famicom_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Smalltalk
@@ -1909,9 +2059,29 @@ Infobox game
 https://en.wikipedia.org/wiki/Special:Redirect/file/Stratego_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Society_for_Creative_Anachronism
+Infobox organization
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Sca.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/32X
 Infobox information appliance
 https://en.wikipedia.org/wiki/Special:Redirect/file/Sega_32X_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Sega_CD
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Sega_CD_Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Sega_Saturn
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Sega_Saturn_Japanese_logo_with_blue_planet.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Samba_(software)
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Samba_logo_2010.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
@@ -1922,6 +2092,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Simple_DirectMedia_Layer,_Lo
 https://en.wikipedia.org/wiki/Seattle_University
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/Seattle_University_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Lehi_(militant_group)
+Infobox militant organization
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_of_the_Lehi_movement.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/IBM_System%2F360
@@ -1962,6 +2137,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Telef%C3%B3nica_2021_logo.sv
 https://en.wikipedia.org/wiki/The_Qt_Company
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Qt_Group_logo_black_2022.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/TeX
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:TeX_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Taekwondo
@@ -2149,6 +2329,11 @@ Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/UC_Davis_wordmark.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/UCSD_Pascal
+Infobox OS
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:UCSD_p-System.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/University_of_California,_San_Diego
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_California,_San_Diego_logo.svg
@@ -2189,6 +2374,11 @@ Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Republican_Disc.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/USB
+Infobox connector
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Certified_USB.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Democratic-Republican_Party
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Tricolour_Cockade.svg
@@ -2217,6 +2407,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/File:University_of_Prince_Ed
 https://en.wikipedia.org/wiki/University_of_Utah
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_Utah_horizontal_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/University_of_Victoria
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:University_of_Victoria_Logo_and_Wordmark.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Conservative_Party_(UK)
@@ -2319,6 +2514,11 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Vickers_plc_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Vectrex
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Vectrex_vector_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/OpenVMS
 Infobox OS
 https://en.wikipedia.org/wiki/Special:Redirect/file/Vsi-openvms-logo.svg
@@ -2367,6 +2567,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/WordPerfect_Corporation_word
 https://en.wikipedia.org/wiki/WordStar
 Infobox software
 https://en.wikipedia.org/wiki/Special:Redirect/file/WordStar_wordmark.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Walkman
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Walkman_logo_(2000).svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Westwood_Studios
@@ -2474,6 +2679,11 @@ Infobox government agency
 https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_Australian_Secret_Intelligence_Service.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/CERN
+Infobox organization
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:CERN_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Epcot
 Infobox amusement park
 https://en.wikipedia.org/wiki/Special:Redirect/file/Epcot_logo_2019.svg
@@ -2497,6 +2707,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Squeak.svg
 https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art
 Infobox museum
 https://en.wikipedia.org/wiki/Special:Redirect/file/The_Metropolitan_Museum_of_Art_Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Pizza_Hut
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Pizza_Hut_1967-1999_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Pizza_Hut
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Pizza_Hut_international_logo_2014.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Taco_Bell
@@ -2529,6 +2749,11 @@ Infobox television channel
 https://en.wikipedia.org/wiki/Special:Redirect/file/CBS_logo_(2020).svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Libertarian_Movement_(Costa_Rica)
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Bandera_del_Movimiento_Libertario.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_California,_Los_Angeles_logo.svg
@@ -2542,6 +2767,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/NOAA_Flag.svg
 https://en.wikipedia.org/wiki/La_Liga
 Infobox football league
 https://en.wikipedia.org/wiki/Special:Redirect/file/LaLiga_EA_Sports_2023_Vertical_Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Jagiellonian_University
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Jagiellonian_University.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Charles_University
@@ -2654,6 +2884,11 @@ Infobox magazine
 https://en.wikipedia.org/wiki/Special:Redirect/file/New_Scientist_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Magnavox
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Magnavox_Logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Microware
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Microware_wordmark.svg
@@ -2687,6 +2922,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Benetton_Group_logo.svg
 https://en.wikipedia.org/wiki/Polish_United_Workers'_Party
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_of_the_Polish_United_Workers'_Party.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/NeXTSTEP
+Infobox OS
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:NeXTSTEP_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Compact_Disc_Digital_Audio
+Infobox storage medium
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:CDDAlogo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Hyundai_Motor_Company
@@ -2732,6 +2977,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/VOC.svg
 https://en.wikipedia.org/wiki/Nutella
 Infobox brand
 https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_Nutella.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Video_CD
+Infobox media
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:VCDlogo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Video_CD
+Infobox media
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:VCDaltlogo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Concordia_University
@@ -2849,6 +3104,11 @@ Infobox organization
 https://en.wikipedia.org/wiki/Special:Redirect/file/UNCF.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Uffizi
+Infobox museum
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Uffizi_Gallery_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Michigan_Technological_University
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/Michigan_Technological_University_logo.svg
@@ -2856,7 +3116,7 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Michigan_Technological_Unive
 ###################################################################
 https://en.wikipedia.org/wiki/Gecko_(software)
 Infobox software
-https://en.wikipedia.org/wiki/Special:Redirect/file/Mozillagecko-logo.svg
+https://en.wikipedia.org/wiki/Special:Redirect/file/file:Mozillagecko-logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Psion_(company)
@@ -2884,6 +3144,11 @@ Infobox OS
 https://en.wikipedia.org/wiki/Special:Redirect/file/Oracle_Solaris_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Lua_(programming_language)
+Infobox programming language
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Lua-Logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/National_Institutes_of_Health
 Infobox government agency
 https://en.wikipedia.org/wiki/Special:Redirect/file/NIH_2013_logo_vertical.svg
@@ -2892,6 +3157,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/NIH_2013_logo_vertical.svg
 https://en.wikipedia.org/wiki/Fox_Broadcasting_Company
 Infobox television channel
 https://en.wikipedia.org/wiki/Special:Redirect/file/Fox_Broadcasting_Company_logo_(2019).svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Dow_Jones_%26_Company
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Dow_Jones_Logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/The_Register
@@ -2954,6 +3224,11 @@ infobox brand
 https://en.wikipedia.org/wiki/Special:Redirect/file/Splenda_Logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/GNU_Octave
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Gnu-octave-logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council
 infobox organization
 https://en.wikipedia.org/wiki/Special:Redirect/file/American_Legislative_Exchange_Council.svg
@@ -2967,6 +3242,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Mathematica_Logo.svg
 https://en.wikipedia.org/wiki/People's_Party_for_Freedom_and_Democracy
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Vvd-logo-2020.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Labour_Party_(Netherlands)
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:PvdA_logo_(2018%E2%80%93present).svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/KStars
@@ -3009,6 +3289,11 @@ Infobox museum
 https://en.wikipedia.org/wiki/Special:Redirect/file/PICA_Logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Karlovy_Vary_International_Film_Festival
+Infobox Film Festival
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Karlovy_Vary_International_Film_Festival_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Citro%C3%ABn
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Citroen_2022.svg
@@ -3044,6 +3329,11 @@ Infobox software
 https://en.wikipedia.org/wiki/Special:Redirect/file/HCLTech-new-logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Albertsons
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Albertsons_Companies_(logo).svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Jewel-Osco
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Jewel-Osco_logo.svg
@@ -3059,9 +3349,19 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Steinway_and_Sons_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Mountain_Dew
+Infobox beverage
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Mountain_Dew_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/General_Dynamics
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/General_Dynamics_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/VHS
+Infobox storage medium
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:VHS_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/SourceForge
@@ -3102,6 +3402,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Sierra_former_logo.svg
 https://en.wikipedia.org/wiki/Valve_Corporation
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Valve_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Iridium_Communications
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Iridium_Satellite_LLC_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/University_of_Vienna
@@ -3254,6 +3559,16 @@ Infobox martial art
 https://en.wikipedia.org/wiki/Special:Redirect/file/JeetKuneDo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Tennessee_Valley_Authority
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:US-TennesseeValleyAuthority-Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Tennessee_Valley_Authority
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Flag_of_the_Tennessee_Valley_Authority.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/GNUstep
 Infobox software
 https://en.wikipedia.org/wiki/Special:Redirect/file/GNUstep_logo.svg
@@ -3352,6 +3667,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Lewis%E2%80%93Clark_State_Co
 https://en.wikipedia.org/wiki/Control_Data_Corporation
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Control_Data_Corporation_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/ITV_(TV_network)
+Infobox television channel
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:_ITV1_logo_(2022).svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/ITV_(TV_network)
+Infobox television channel
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:UTV_2016.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Fujitsu
@@ -3454,9 +3779,24 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Toshiba_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/University_of_Virginia
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:University_of_Virginia_Rotunda_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/University_of_Virginia
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:University_of_Virginia_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Ernst_%26_Young
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/EY_logo_2019.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Self_(programming_language)
+Infobox programming language
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Self-logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Amherst_College
@@ -3487,6 +3827,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_Florida_logo.s
 https://en.wikipedia.org/wiki/Country_Music_Hall_of_Fame_and_Museum
 Infobox museum
 https://en.wikipedia.org/wiki/Special:Redirect/file/Country_Music_Hall_of_Fame_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Netwide_Assembler
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Netwide_Assembler.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association
@@ -3522,6 +3867,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_London_logo.sv
 https://en.wikipedia.org/wiki/Chicago_Tribune
 Infobox newspaper
 https://en.wikipedia.org/wiki/Special:Redirect/file/Chicago_Tribune_Logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/University_of_Bristol
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:University_of_Bristol_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Bitstream_Inc.
@@ -3604,6 +3954,11 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Global_Crossing_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Risc_PC
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Acorn_risc_pc_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/WWE
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/WWE_official_logo.svg
@@ -3619,9 +3974,24 @@ Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/ChristenUnie_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Reformed_Political_Party
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:SGP_logo_(2016%E2%80%93present).svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Revolutionary_Organization_17_November
 Infobox militant organization
 https://en.wikipedia.org/wiki/Special:Redirect/file/Drapeau_de_l'Organisation_r%C3%A9volutionnaire_du_17-Novembre.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Atari_8-bit_family
+Infobox computer
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Atari_400_logo-02.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Atari_8-bit_family
+Infobox computer
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Atari_800_logo-01.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Atlantic_League_of_Professional_Baseball
@@ -3699,6 +4069,11 @@ Infobox sports league
 https://en.wikipedia.org/wiki/Special:Redirect/file/World_Football_League_Primary_Logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Democratic_Party_%E2%80%93_demokraci.pl
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Partia_Demokratyczna_-_demokraci_Logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/University_of_Mississippi
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_Mississippi_logo.svg
@@ -3724,6 +4099,11 @@ Infobox storage medium
 https://en.wikipedia.org/wiki/Special:Redirect/file/Compact_cassette_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Digital_Audio_Tape
+Infobox storage medium
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Digital_Audio_Tape_(logo).svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/DuMont_Television_Network
 Infobox television channel
 https://en.wikipedia.org/wiki/Special:Redirect/file/DuMont.svg
@@ -3747,6 +4127,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Museum_of_Modern_Art_logo.sv
 https://en.wikipedia.org/wiki/National_Palace_Museum
 Infobox museum
 https://en.wikipedia.org/wiki/Special:Redirect/file/National_Palace_Museum_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Bzip2
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Bzip2-logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Waterloo_%26_City_line
@@ -3804,9 +4189,19 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Bausch_and_Lomb_Logo_2010.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Jewish_Theological_Seminary_of_America
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Jewish_Theological_Seminary_of_America_logo_with_name.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Fourth_International
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_of_the_Fourth_International.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/London_School_of_Economics
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:London_school_of_economics_logo_with_name.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/DIVX
@@ -3929,9 +4324,19 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Telenor.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Ulster_Unionist_Party
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Ulster_Unionist_Party_logo_(2017).svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Montreal_Alouettes
 Infobox American football team
 https://en.wikipedia.org/wiki/Special:Redirect/file/Montreal_Alouettes_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Church_of_Sweden
+Infobox Christian denomination
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Church_of_Sweden_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration
@@ -3942,6 +4347,16 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/NARA_Logo_created_2010.svg
 https://en.wikipedia.org/wiki/Iraqi_National_Congress
 Infobox political party
 https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_of_the_Iraqi_National_Congress.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Iraqi_National_Accord
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Iraqi_National_Accord.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Islamic_Supreme_Council_of_Iraq
+Infobox political party
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:ISCI_flag.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Arizona_Fall_League
@@ -4162,6 +4577,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/SacramentoKings.svg
 https://en.wikipedia.org/wiki/York_Minster
 Infobox church
 https://en.wikipedia.org/wiki/Special:Redirect/file/Arms_of_the_Archbishop_of_York.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Juniata_College
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Juniata_College_logo.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/University_of_Waterloo
@@ -4664,6 +5084,11 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Lucasfilm_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Copa_del_Rey
+infobox football tournament
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_Copa_del_Rey_2021_(navy_badge).svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/General_Electric_Company
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_General_Electric_Company.svg
@@ -4784,6 +5209,11 @@ infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Warner_Communications.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/%C3%89cole_centrale_de_Lyon
+Infobox university
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_centrale_lyon.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/NCR_Voyix
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/NCR_Voyix_logo.svg
@@ -4792,6 +5222,11 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/NCR_Voyix_logo.svg
 https://en.wikipedia.org/wiki/University_of_Manchester
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/UniOfManchesterLogo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Silja_Line
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Silja_Line_Logo_2012.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Boston_Public_Library
@@ -4877,6 +5312,21 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Logo_of_Braxton_County,_West
 https://en.wikipedia.org/wiki/University_of_Miami
 Infobox university
 https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_Miami_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation
+Infobox militant organization
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional,_Flag.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/6th_arrondissement_of_Paris
+Infobox French subdivision
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_Arrondissement_de_Paris_-_Mairie_06_-_Luxembourg.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/14th_arrondissement_of_Paris
+Infobox French subdivision
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_Arrondissement_de_Paris_-_Mairie_14_-_Observatoire.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Massey_University
@@ -4979,9 +5429,24 @@ Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/SKF_logo.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/5th_arrondissement_of_Paris
+Infobox French subdivision
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Logo_Arrondissement_de_Paris_-_Mairie_05_-_Panth%C3%A9on.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/IPod
+Infobox information appliance
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:IPodlogo2017.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Taligent
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/Taligent_logo.svg
+-------------------------------------------------------------------
+###################################################################
+https://en.wikipedia.org/wiki/Taligent
+Infobox software
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:CommonPoint_logo_color.svg
 -------------------------------------------------------------------
 ###################################################################
 https://en.wikipedia.org/wiki/Amazon_(company)
@@ -5134,6 +5599,11 @@ Infobox rail line
 https://en.wikipedia.org/wiki/Special:Redirect/file/File:Piccadilly_line_flag_box.svg
 -------------------------------------------------------------------
 ###################################################################
+https://en.wikipedia.org/wiki/Hilton_Worldwide
+Infobox company
+https://en.wikipedia.org/wiki/Special:Redirect/file/File:Hilton_Worldwide_logo.svg
+-------------------------------------------------------------------
+###################################################################
 https://en.wikipedia.org/wiki/Hilton_Hotels_%26_Resorts
 Infobox company
 https://en.wikipedia.org/wiki/Special:Redirect/file/HiltonHotelsLogo.svg
@@ -5260,4 +5730,4 @@ https://en.wikipedia.org/wiki/Special:Redirect/file/Anglia_Ruskin_University_log
 -------------------------------------------------------------------
 articleCount 64877
 infoCount 2084
-svgLogoCount 1052
+svgLogoCount 1146

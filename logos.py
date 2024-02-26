@@ -64,16 +64,15 @@ class MarkupHandler():
         if arg != 'logo':
           continue
         infoCount = infoCount + 1;
-        logoUrl = logoValueToUrl(argument.value, parsed)
-        if not logoUrl:
-          continue
-        svgLogoCount = svgLogoCount + 1
         pageUrl = urllib.parse.urljoin(base, urlencode(title))
-        print('###################################################################')
-        print(pageUrl)
-        print(name)
-        print(logoUrl)
-        print('-------------------------------------------------------------------')
+        logoUrls = logoValueToUrls(argument.value)
+        for logoUrl in logoUrls:
+          svgLogoCount = svgLogoCount + 1
+          print('###################################################################')
+          print(pageUrl)
+          print(name)
+          print(logoUrl)
+          print('-------------------------------------------------------------------')
 
 def decompress(byteStream, feed):
   bufsize = 128 * 1024;
@@ -104,20 +103,14 @@ def urlencode(value):
       chars.append("%%%0.2X" % b)
   return ''.join(chars)
 
-refile = re.compile(r'^ *\[\[ *file *:')
-def logoValueToUrl(value, parsed):
-  value = str(value).strip() if value else None
-  if not value:
-    return None
+refile = re.compile(r'(?i)^ *\[\[ *file *:')
+def logoValueToUrls(value):
+  value = str(value).strip() if value else ''
+  values = [urlencode(value)]
   if refile.match(value):
-    for wikilink in parsed.ifilter_wikilinks():
-      if value == str(wikilink):
-        value = wikilink.title[5:]
-        break
-  if not value.strip().endswith('.svg'):
-    return None
-  value = urlencode(value)
-  return f'{logoBase}/{value}'
+    parsed = mwp.parse(value)
+    values = [urlencode(wikilink.title.strip()) for wikilink in parsed.ifilter_wikilinks()]
+  return [f'{logoBase}/{v}' for v in values if v.endswith('.svg')]
 
 def main(url):
   markupParser = MarkupHandler()
