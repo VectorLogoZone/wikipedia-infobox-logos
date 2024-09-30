@@ -30,6 +30,8 @@ jobs:
       - name: Build
         env:
           MAX_FILES: ${{ vars.MAX_FILES }}
+          MAX_PROCS: ${{ vars.MAX_PROCS }}
+          MAX_WAIT: ${{ vars.MAX_WAIT }}
         run: |
           ./build.sh
 

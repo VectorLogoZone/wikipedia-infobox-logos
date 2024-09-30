@@ -6,7 +6,7 @@ import json
 import re
 import sys
 import urllib.parse
-import urllib.request
+import urllib3
 import xml.sax
 from datetime import datetime, timezone, UTC
 from xml.sax.handler import ContentHandler
@@ -163,7 +163,7 @@ def main():
     output = JsonHandler()
     markupParser = MarkupHandler(args.prefix, output)
     xmlParser = TextHandler(lambda base, title, text : markupParser.process(base, title, text))
-    with urllib.request.urlopen(url) as byteStream:
+    with urllib3.request("GET", url, retries=5, preload_content=False) as byteStream:
         decompress(byteStream, lambda data : xmlParser.feed(data))
         #xmlParser.feed(byteStream)
     output.end()
