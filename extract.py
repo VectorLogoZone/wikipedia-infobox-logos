@@ -19,6 +19,7 @@ tags = frozenset(['logo'])
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Extract infobox logos from Wikipedia dump.')
+    parser.add_argument('--prefix', action='store', default='', help='prefix for log lines')
     parser.add_argument('url', nargs=1, help='URL of the Wikipedia dump file (can be file:// or https://)')
     return parser.parse_args()
 
@@ -52,7 +53,8 @@ class JsonHandler():
         print(text[offset:], file=self.file)
 
 class MarkupHandler():
-    def __init__(self, output):
+    def __init__(self, prefix, output):
+        self.prefix = prefix
         self.output = output
 
     def process(self, base, title, text):
@@ -60,7 +62,7 @@ class MarkupHandler():
         if articleCount % 1000 == 0:
             now = datetime.now(timezone.utc)
             delta = now - startTime
-            print(isodatetime(now), delta.total_seconds(), articleCount, infoCount, svgLogoCount, file=sys.stderr)
+            print(f'{self.prefix}{isodatetime(now)} delta={delta.total_seconds()} articles={articleCount} boxes={infoCount} logos={svgLogoCount}', file=sys.stderr)
         articleCount = articleCount + 1
         parsed = mwp.parse(text)
         hasInfobox = False
@@ -159,7 +161,7 @@ def main():
     global startTime
     startTime = datetime.now(timezone.utc)
     output = JsonHandler()
-    markupParser = MarkupHandler(output)
+    markupParser = MarkupHandler(args.prefix, output)
     xmlParser = TextHandler(lambda base, title, text : markupParser.process(base, title, text))
     with urllib.request.urlopen(url) as byteStream:
         decompress(byteStream, lambda data : xmlParser.feed(data))
@@ -167,10 +169,10 @@ def main():
     output.end()
     now = datetime.now(timezone.utc)
     delta = now - startTime
-    print('articleCount', articleCount, file=sys.stderr)
-    print('infoCount', infoCount, file=sys.stderr)
-    print('svgLogoCount', svgLogoCount, file=sys.stderr)
-    print('elapsed', delta, file=sys.stderr)
+    print(f'{args.prefix}articleCount: {articleCount}', file=sys.stderr)
+    print(f'{args.prefix}infoCount: {infoCount}', file=sys.stderr)
+    print(f'{args.prefix}svgLogoCount: {svgLogoCount}', file=sys.stderr)
+    print(f'{args.prefix}elapsed: {delta}', file=sys.stderr)
 
 if __name__ == '__main__':
     main()

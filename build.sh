@@ -33,21 +33,18 @@ wc -l "${BUILD_DIR}/files-all.txt"
 
 ./wsizecheck.py "${BUILD_DIR}/files-all.txt"
 
-MAX_FILES=${MAX_FILES:-3}
+MAX_FILES=${MAX_FILES:-8}
 echo "INFO: trimming list to ${MAX_FILES} files"
 head -n "${MAX_FILES}" "${BUILD_DIR}/files-all.txt" >"${BUILD_DIR}/files-limited.txt"
 
 ./wsizecheck.py "${BUILD_DIR}/files-limited.txt"
 
-# loop through the files and download them
-IFS=$'\n'
-FILES=($(cat "${BUILD_DIR}/files-limited.txt"))
-COUNT=0
-for FILE in "${FILES[@]}"; do
-    echo "INFO: processing $COUNT $FILE"
-    ./extract.py "$FILE" >"${BUILD_DIR}/logos${COUNT}.json"
-    COUNT=$((COUNT+1))
-done
+echo "INFO: adding line numbers"
+nl -nrz -w3 -s ' ' "${BUILD_DIR}/files-limited.txt" >"${BUILD_DIR}/files-numbered.txt"
+
+MAX_PROCS=${MAX_PROCS:-4}
+echo "INFO: extracting files in parallel with ${MAX_PROCS} processes"
+cat "${BUILD_DIR}/files-numbered.txt" | xargs -n 2 -P ${MAX_PROCS} ./parallel-extract.sh
 
 echo "INFO: merging files"
 ./mkindex.py --output="${BUILD_DIR}/sourceData.json" "${BUILD_DIR}"/logos*.json
