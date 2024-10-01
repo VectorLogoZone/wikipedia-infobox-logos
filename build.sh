@@ -17,7 +17,7 @@ if [ ! -d "${BUILD_DIR}" ]; then
     mkdir -p "${BUILD_DIR}"
 fi
 
-OUTPUT_DIR=${OUTPUT_DIR:-./build}
+OUTPUT_DIR=${OUTPUT_DIR:-./output}
 if [ ! -d "${OUTPUT_DIR}" ]; then
     echo "INFO: creating output directory ${OUTPUT_DIR}"
     mkdir -p "${OUTPUT_DIR}"

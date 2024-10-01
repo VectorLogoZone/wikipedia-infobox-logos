@@ -1,5 +1,7 @@
 # Wikipedia InfoBox Logos [<img alt="Wikipedia Logo" src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" height="96" align="right"/>](https://wikipedia.org/)
 
+[![release](https://github.com/VectorLogoZone/wikipedia-infobox-logos/actions/workflows/release.yaml/badge.svg)](https://github.com/VectorLogoZone/wikipedia-infobox-logos/actions/workflows/release.yaml)
+
 Extracts SVG logos from Wikipedia [InfoBoxes](https://en.wikipedia.org/wiki/Help:Infobox).
 
 I already extract SVG logos from Wikipedia if they have "logo" in the file name, but that there are valid SVG logos.  This is
