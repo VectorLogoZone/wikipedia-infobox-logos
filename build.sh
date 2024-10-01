@@ -47,7 +47,7 @@ echo "INFO: extracting files in parallel with ${MAX_PROCS} processes"
 cat "${BUILD_DIR}/files-numbered.txt" | xargs -n 2 -P ${MAX_PROCS} ./parallel-extract.sh
 
 echo "INFO: merging files"
-./mkindex.py --output="${BUILD_DIR}/sourceData.json" "${BUILD_DIR}"/logos*.json
+./mkindex.py --output="${OUTPUT_DIR}/sourceData.json" "${BUILD_DIR}"/logos*.json
 
 echo "INFO: creating sourceData.tgz in ${OUTPUT_DIR}"
 tar cvzf "${OUTPUT_DIR}/sourceData.tgz" \
